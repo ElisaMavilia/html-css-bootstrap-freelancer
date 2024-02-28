@@ -13,24 +13,12 @@
 background-color: #1abc9c;
 }
 
-#image-box{
-    width: 20%;
-}
-
-#text-box{
-    width: 20%;
-}
-
 .hr-line{
-    width: 20%;
+    width: 15%;
 }
 
 .icon::before{
     content:"\f005";
     font-family: "Font Awesome 6 Free";
     display: inline-block;
-}
-
-.card{
-    overflow: hidden;
 }
