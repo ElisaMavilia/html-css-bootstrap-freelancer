@@ -19,10 +19,15 @@ background-color: #1abc9c;
 
 .white-line{
     width: 35%;
+   
 }
 
 .icon::before{
     content:"\f005";
     font-family: "Font Awesome 6 Free";
     display: inline-block;
+}
+
+hr{
+   
 }
