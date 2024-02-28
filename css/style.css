@@ -17,13 +17,20 @@ background-color: #1abc9c;
     width: 20%;
 }
 
-.white-line{
+#text-box{
     width: 20%;
-   
+}
+
+.hr-line{
+    width: 20%;
 }
 
 .icon::before{
     content:"\f005";
     font-family: "Font Awesome 6 Free";
     display: inline-block;
+}
+
+.img-box{
+    
 }
