@@ -31,6 +31,6 @@ background-color: #1abc9c;
     display: inline-block;
 }
 
-.img-box{
-    
+.card{
+    overflow:hidden;
 }
