@@ -2,3 +2,27 @@
 .em-debug{
     border: 1px solid red;
 }
+
+/* utility colors */
+:root {
+	--color-green-odd: #1abc9c;
+	--color-black-footer: #3a546d;
+}
+
+.odd{
+background-color: #1abc9c;
+}
+
+#image-box{
+    width: 20%;
+}
+
+.white-line{
+    width: 35%;
+}
+
+.icon::before{
+    content:"\f005";
+    font-family: "Font Awesome 6 Free";
+    display: inline-block;
+}
